@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Front-end;
 - 🌱 Atualmente estudando Responsive Web;
-- ⚡ Fato Engraçado: Quando conheci HTML e CSS, de cara eu odiei! Hoje, perco tempo criando layouts com HTML e CSS puro! 🖤
+- ⚡ Fato Engraçado: Quando conheci HTML e CSS, de cara eu odiei! Hoje, passo tempo criando layouts com HTML e CSS puro! 🖤
 
 <div align="center">
   <a href="https://github.com/0cmat">
