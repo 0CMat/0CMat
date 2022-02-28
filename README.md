@@ -1,7 +1,7 @@
  <h1>Olá! Eu sou o Mateus Oliveira! 🤙</h1>
 
 - 🔭 Hoje trabalho com Front-end;
-- 🌱 Atualmente estudando Responsive Web;
+- 🌱 Atualmente estudando Frameworks de CSS;
 - ⚡ Fato Engraçado: Quando conheci HTML e CSS, de cara eu odiei! Hoje, passo tempo criando layouts com HTML e CSS puro! 🖤
 
 <div align="center">
