@@ -1,8 +1,8 @@
  <h1>Olá! Eu sou o Mateus Oliveira! 🤙</h1>
 
-- 🔭 Hoje trabalho com Front-end;
-- 🌱 Atualmente estudando React;
-- ⚡ Fato Engraçado: Quando conheci HTML e CSS, de cara eu odiei! Hoje, passo tempo criando layouts com HTML e CSS puro! 🖤
+- 🔭 Hoje apenas me aprofundo em meus conhecimentos em programação;
+- 👨‍🎓 Formado em técnico em desenvolvimento de sistemas pelo SENAI CIMATEC/BA;
+- 🌱 Atualmente estudando Python 🐍;
 
 <div align="center">
   <a href="https://github.com/0cmat">
