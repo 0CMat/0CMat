@@ -2,7 +2,6 @@
 
 - 🔭 Hoje apenas me aprofundo em meus conhecimentos em programação;
 - 👨‍🎓 Formado em técnico em desenvolvimento de sistemas pelo SENAI CIMATEC/BA;
-- 🌱 Atualmente estudando Python 🐍;
 
 <div align="center">
   <a href="https://github.com/0cmat">
