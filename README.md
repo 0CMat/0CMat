@@ -1,6 +1,6 @@
  <h1>Olá! Eu sou o Mateus Oliveira! 🤙</h1>
 
-- 🔭 Programador freelancer, me aperfeiçoando cada dia mais sobre o mundo da porgramação;
+- 🔭 Programador freelancer, me aperfeiçoando cada dia mais sobre o mundo da programação;
 - 👨‍🎓 Graduando em Engenharia de Software;
 - 💻 Formado em técnico em desenvolvimento de sistemas pelo SENAI CIMATEC/BA;
 
