@@ -1,7 +1,8 @@
  <h1>Olá! Eu sou o Mateus Oliveira! 🤙</h1>
 
-- 🔭 Programador freelancer, me aperfeiçoando cada dia mais sobre o mundo da programação;
-- 👨‍🎓 Graduando em Engenharia de Software;
+- 💻 Programador Python focado em resultados — apaixonado por transformar ideias em soluções escaláveis e eficientes.
+- 🎓 Cursando Engenharia de Software (último ano) e Técnico em Desenvolvimento de Sistemas pelo SENAI CIMATEC/BA — com visão sólida de engenharia e produção de código de qualidade.
+- 🐍 Experiência prática em Python, com projetos voltados à automação, lógica aplicada e boas práticas de desenvolvimento.
 - 💻 Formado em técnico em desenvolvimento de sistemas pelo SENAI CIMATEC/BA;
 
 <div align="center">
